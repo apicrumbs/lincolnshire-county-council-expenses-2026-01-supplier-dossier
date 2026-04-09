@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-09T16:09:02+00:00"
+- last_updated: "2026-04-09T23:01:55+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -19,7 +19,7 @@
 ---
 - [CRUMB: transparency/expensessupplierfinancialpulse]
 - [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
-- [REF: Hertfordshire Council Council January 2026 Expenses]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
 
@@ -31,7 +31,7 @@
 ---
 - [CRUMB: transparency/expensessuppliertotalspend]
 - [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
-- [REF: Hertfordshire Council Council January 2026 Expenses]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
 
@@ -44,7 +44,7 @@
 ---
 - [CRUMB: transparency/expensessuppliersectormix]
 - [SOURCE: LCCSPENDING%202026-01-M5JbeV.csv ]
-- [REF: Hertfordshire Council Council January 2026 Expenses]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
 
@@ -53,7 +53,7 @@
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
-- [REF: Hertfordshire Council Council January 2026 Expenses]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
 
@@ -66,7 +66,7 @@
 ---
 - [CRUMB: transparency/expensessupplierdailybreakdown]
 - [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
-- [REF: Hertfordshire Council Council January 2026 Expenses]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
 - [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
 - [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
 
