@@ -1,0 +1,276 @@
+﻿---
+- title: "Lincolnshire County Council - Expenses - January 2026 - Supplier Dossier: Amvale Medical Transport Ltd"
+- entity_id: "Amvale Medical Transport Ltd"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-05-07T17:25:14+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: AMVALE MEDICAL TRANSPORT LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £777,043.10
+- **Invoice Frequency**: 327 payments processed
+- **Mean Transaction Value**: £2,376.28
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £777,043.10
+- **Transaction Volume**: 327 Invoices
+- **Lead Department**: Home to School/College Transport
+- **Departmental Reach**: Active in 4 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **4** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Home to School/College Transport | £775,736 | 99.8% |
+| `     ` | Special Educational Needs and Disabilities | £1,103 | 0.1% |
+| `     ` | Family Assessment and Support Teams | £170 | 0.0% |
+| `     ` | Fostering and Adoption | £34 | 0.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: LCCSPENDING%202026-01-M5JbeV.csv ]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £4125.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3994.51  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £156.89  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £348.60  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4035.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2334.96  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £471.87  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £104.94  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2596.02  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1738.98  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1478.61  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £546.71  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £158.03  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £205.25  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £913.23  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1426.07  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1356.97  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1410.23  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3000.35  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £433.11  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £886.54  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2194.54  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £493.16  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £368.61  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2655.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3311.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2465.41  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2146.79  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £795.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1101.15  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £811.30  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £753.06  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £380.08  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3420.78  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £604.94  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £404.56  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3007.41  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2311.14  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3285.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £76.16  to Amvale Medical Transport Ltd (Special Educational Needs and Disabilities)
+- Paid £1826.67  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £482.81  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2078.02  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2368.21  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1895.36  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3262.93  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £49.38  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £943.64  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4932.40  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1709.15  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1069.57  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £707.40  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1900.58  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £806.70  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2438.32  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1683.23  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £405.33  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3717.90  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5103.60  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3055.65  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4355.85  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3417.66  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3134.25  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2317.31  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £97.00  to Amvale Medical Transport Ltd (Special Educational Needs and Disabilities)
+- Paid £2719.26  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3122.86  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1219.64  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1376.90  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1014.46  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1004.08  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £491.48  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £539.41  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1901.43  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3097.89  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2920.14  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1963.46  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1726.14  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4000.47  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £577.48  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1182.05  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2926.05  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £657.55  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3540.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4380.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4233.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £523.21  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4708.85  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £642.34  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £228.48  to Amvale Medical Transport Ltd (Special Educational Needs and Disabilities)
+- Paid £2435.56  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £643.75  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2770.69  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £346.16  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £95.36  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3787.35  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £203.08  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1492.12  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2151.85  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £416.98  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1517.30  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1297.45  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3788.47  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £460.36  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4913.10  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £364.48  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3053.12  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4913.10  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4248.13  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £549.47  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1327.65  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £838.31  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4511.40  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1220.50  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £761.92  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £955.24  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £203.21  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3026.83  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £986.76  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1090.31  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3609.03  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £68.07  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4762.20  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3703.99  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £899.96  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £919.29  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £345.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £982.84  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £317.67  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £238.58  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £275.10  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £306.11  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5394.98  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £33.07  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5330.25  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £16.43  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5005.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4619.55  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3840.15  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5566.35  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5583.60  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4351.66  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £671.83  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5316.50  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £646.30  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4767.15  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5898.67  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4525.65  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3099.73  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1407.92  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £50.86  to Amvale Medical Transport Ltd (Special Educational Needs and Disabilities)
+- Paid £419.34  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £6550.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5380.96  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £696.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1681.69  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1921.91  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1643.44  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £6550.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5112.73  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5075.20  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £157.01  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £583.13  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £438.46  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5049.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £257.23  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1890.02  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £2725.68  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £571.16  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1308.46  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1620.73  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £278.34  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £965.11  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4035.77  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1315.68  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1453.75  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4571.43  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £86.23  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £6349.60  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £3916.99  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £886.52  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £950.07  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £5714.44  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £33.84  to Amvale Medical Transport Ltd (Fostering and Adoption)
+- Paid £1139.95  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1164.42  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £438.01  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1244.93  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £402.38  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £302.20  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £348.48  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £387.74  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £104.50  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £1874.03  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £4136.17  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £6034.20  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £7107.00  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £73.49  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £7163.91  to Amvale Medical Transport Ltd (Home to School/College Transport)
+- Paid £7444.80  to Amvale Medical Transport Ltd (Home to School/College Transport)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+|  `01/01/2026` | 327 | £777,043.10 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: LCCSPENDING 2026-01-M5JbeV.csv ]
+- [REF: Lincolnshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://blob.datopian.com/resources/7efd063e-8e17-43aa-b32c-40bbb099f06b/LCCSPENDING%202026-01-M5JbeV.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
